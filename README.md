@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://eveaiswarms.xyz/">
 <img src="https://pictr.com/images/2025/01/09/x1fIrj.jpg" alt="x1dCZ1.jpg" border="0" />
-<a href="https://pictr.com/image/x1fIrj"><img src="https://pictr.com/images/2025/01/09/x1fIrj.jpg" alt="x1fIrj.jpg" border="0" /></a>
   </a>
 </div>
 
